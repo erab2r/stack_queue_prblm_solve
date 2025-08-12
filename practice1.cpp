@@ -1,4 +1,5 @@
-//Question: Take two stacks of size N and M as input and check if both of them are the same or not. Don’t use STL stack to solve this problem.
+//Question: Take two stacks of size N and M as input and check if both of them are the same or not. 
+//Don’t use STL stack to solve this problem.
 #include<bits/stdc++.h>
 using namespace std;
 
